@@ -6,7 +6,7 @@
 
 🎓 I'm a final-year B.Tech student passionate about **MERN stack development**, competitive programming, and building impactful tech projects.  
 💻 I enjoy solving real-world problems through code and contributing to open-source communities.  
-🧑‍💻 I'm currently learning **React** and building projects using the **MERN stack (MongoDB, Express.js, React, Node.js)** to strengthen my skills.
+🧑‍💻 Currently learning React and exploring the complete MERN stack (MongoDB, Express, React, Node.js).
 
 ---
 
