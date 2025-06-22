@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tarani!
 
-🎓 I'm a final-year B.Tech student passionate about full-stack development, competitive programming, and building impactful tech projects.  
+🎓 I'm a final-year B.Tech student passionate about **MERN stack development**, competitive programming, and building impactful tech projects.  
 💻 I enjoy solving real-world problems through code and contributing to open-source communities.
 
 ---
@@ -17,7 +17,9 @@
 
 🧪 **Currently Learning:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ---
 
@@ -30,18 +32,26 @@
 
 ---
 
-## ⭐ Total Stars Earned
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Tarani12?style=social" alt="GitHub stars"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarani12&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tarani12&theme=radical" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode)
 
 ---
